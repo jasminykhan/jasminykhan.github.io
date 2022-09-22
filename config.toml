@@ -1,7 +1,7 @@
 baseurl = "https://jasminykhan.github.io/"
 languageCode = "en-us"
 title = "Bring Osman Home"
-theme = "hugo-theme-meme"
+theme = "meme"
 
 # `hugo new` automatically opened text editor
 newContentEditor = ""
