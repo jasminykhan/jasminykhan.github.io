@@ -8,10 +8,9 @@ draft: False
 On January 15, 2022 the life of Osman Khan and the members of the Khan-Valdes family changed
 drastically. Osman Khan, a 24 year old U.S. citizen, was apprehended at the border of Venezuela and
 held hostage due to his nationality. On January 20, Osman was allegedly supposed to be presented in
-court but was instead taken to what they call “House of Torture.” 
+court but was instead taken to what they call the “House of Torture.” 
 
-At this location, Osman was tortured
-and treated inhumanely. He was water-boarded, starved for five days, threatened to be raped by the
+At this location, Osman was tortured and treated inhumanely. He was water-boarded, starved for five days, threatened to be raped by the
 guards, and electrocuted until unconscious. The methods of torture were so severe, medical attention
 was required to bring Osman back and revive him. After this, Osman was transferred to the DGCIM
 prison where he has to face the people who tortured him on a daily basis, and where he has also been
