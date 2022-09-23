@@ -32,4 +32,4 @@ this situation exacerbate such symptoms. Osman, an innocent young man, is being 
 conspiracy and will not be released unless the US government acts. 
 
 Lets put pressure and get the word
-out to #BringOsmanHome !!!!
+out to #BringOsmanHome !!!!!
