@@ -320,12 +320,7 @@ uglyURLs = false
 
     siteDescription = "This website serves to bring attention and inform the public of the brutal conditions Osman and other americans have suffered at the hands of the Maduro regime."
     
-    # Dark Mode
-
-    enableDarkMode = true
-
-    defaultTheme = "light"
-    # Note: light or dark
+    style = "auto-without-switcher"
 
     hideThemeToggle = false
     hideThemeToggleInHome = false
