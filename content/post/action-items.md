@@ -1,6 +1,6 @@
 +++
 author = "Daniel Williamson & Jasmin Khan"
-title = "How you can help"
+title = "What you can do to help"
 date = "2022-09-23"
 description = "Action Items"
 tags = [
