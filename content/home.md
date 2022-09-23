@@ -6,7 +6,7 @@ draft: false
 
 All the pictures should be here now!
 
-![Osman Khan](../public/osman-1.jpeg)
-![Osman Khan](../public/osman-2.jpeg)
-![Osman Khan](../public/osman-3.jpeg)
-![Osman Khan](../public/osman-4.jpeg)
+![Osman Khan](osman-1.jpeg)
+![Osman Khan](osman-2.jpeg)
+![Osman Khan](osman-3.jpeg)
+![Osman Khan](osman-4.jpeg)
