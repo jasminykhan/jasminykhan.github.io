@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-There's some actions you can take to help bring Osman home!<!--more-->
+There's some actions you can take to help bring Osman home!!<!--more-->
 
 # Sign the petition
 
