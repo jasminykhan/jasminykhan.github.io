@@ -2,6 +2,7 @@ baseurl = "https://jasminykhan.github.io/"
 languageCode = "en-us"
 title = "Bring Osman Home"
 theme = "hugo-theme-anubis"
+enableInlineShortcodes = true
 
 # `hugo new` automatically opened text editor
 newContentEditor = ""
@@ -197,12 +198,6 @@ uglyURLs = false
         weight = 1
         pre = "internal"
         post = "home"
-    [[menu.main]]
-        pageref = "/about"
-        name = "About"
-        weight = 2
-        pre = "internal"
-        post = "about"
     [[menu.main]]
         pageref = "/contact"
         name = "Contact"
