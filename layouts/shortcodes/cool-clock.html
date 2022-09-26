@@ -45,10 +45,14 @@
 </style>
 <!-- javascript -->
 <script>
+   
     function updateTimer() {
     // yyyy-MM-dd HH:mm:ss
-    past  = Date.parse("2022-01-15 00:00:00");
+    past  = Date.parse("2022/01/5 00:00:00");
     now     = new Date();
+    // var t = date.split(/[- :]/);
+    // var d = new Date(t[0], t[1]-1, t[2], t[3], t[4], t[5]);
+    // var now = new Date(d);
     diff    = now - past;
 
     years  = Math.floor( diff / (1000*60*60*24*30*12) );
@@ -76,3 +80,5 @@
   }
   setInterval('updateTimer()', 1000 );
 </script>
+
+
